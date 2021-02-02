@@ -71,5 +71,5 @@ I tried three different models:
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Random Forest** : MAE = 10.72
 *	**Linear Regression**: MAE = 18.86
-*	**Ridge Regression**: MAE = 19.67
+*	**Lasso Regression**: MAE = 19.67
 
